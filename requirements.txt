@@ -1,4 +1,4 @@
 streamlit
-ultralytics 8.3.156
+ultralytics==8.3.156
 opencv-python-headless
 Pillow
